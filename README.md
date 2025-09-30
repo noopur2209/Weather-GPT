@@ -61,13 +61,13 @@ Examples of queries:
 - “Give me the forecast for London.”
 
 ## 📂 Project Structure
-
+```bash
 .
 ├── app.py              # Main Streamlit app
 ├── requirements.txt    # Python dependencies
 ├── .env                # API keys (not committed to GitHub)
 └── README.md           # Project documentation
-
+```
 ## 🚀 Future Enhancements
 
  - Add support for 5-day forecast
